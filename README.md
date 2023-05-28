@@ -16,5 +16,5 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/night-slayer18)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=night-slayer18&show_icons=true&count_private=true&theme=dark) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=night-slayer18&show_icons=true&count_private=true&theme=dark&include_all_commits=true) 
 
