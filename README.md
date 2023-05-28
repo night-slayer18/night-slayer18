@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samanuai</h1>
 <h3 align="center">FrontEnd Web and App Developer</h3>
-<style>
-  .image img {
-    background: none;
-  }
-  </style>
 [![](https://visitcount.itsvg.in/api?id=night-slayer18&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <a href='https://docs.github.com/en/developers' class='image'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='25' height='25'></a>
