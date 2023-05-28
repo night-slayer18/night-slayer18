@@ -13,6 +13,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=night-slayer18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=night-slayer18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 ![GitHub metrics](https://metrics.lecoq.io/night-slayer18)  
 
