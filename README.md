@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
 
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">, I'm Samanuai</h1>
+<h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">, I'm Samanuai</h1>
 <h3 align="center">FrontEnd Web and App Developer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=night-slayer18&icon=2&color=0)](https://visitcount.itsvg.in)
