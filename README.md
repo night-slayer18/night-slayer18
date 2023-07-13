@@ -15,9 +15,6 @@
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=night-slayer18&show_icons=true&count_private=true&theme=dark&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=night-slayer18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=night-slayer18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://raw.githubusercontent.com/night-slayer18/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/night-slayer18/github-stats/master/generated/overview.svg#gh-light-mode-only)
 <!-- ![GitHub metrics](https://metrics.lecoq.io/night-slayer18)   -->
 
 
