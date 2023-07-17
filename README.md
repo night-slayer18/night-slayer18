@@ -15,6 +15,9 @@
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=night-slayer18&show_icons=true&count_private=true&theme=dark&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=night-slayer18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=night-slayer18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# Code Time
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C157%20hrs%2051%20mins-blue)
 <!-- ![GitHub metrics](https://metrics.lecoq.io/night-slayer18)   -->
 
 
