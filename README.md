@@ -16,6 +16,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=night-slayer18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=night-slayer18&layout=compact&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
+<figure><embed src="https://wakatime.com/share/@b40b327d-98a3-453f-be6c-d15d4dedcbce/c0631974-7803-4c3c-88fd-fa77bb028e3e.svg"></embed></figure>
+
 <!-- ![GitHub metrics](https://metrics.lecoq.io/night-slayer18)   -->
 
 
