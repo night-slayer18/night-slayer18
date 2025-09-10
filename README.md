@@ -1,4 +1,3 @@
-# Samanuai A 👋
 
 <div align="center">
   <h3>Full Stack Developer | Open Source Contributor</h3>
