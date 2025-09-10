@@ -1,18 +1,44 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
+# Samanuai A 👋
 
-<h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="32px">, I'm Samanuai</h1> 
-<h3 align="center">MERN Stack Developer</h3>
+<div align="center">
+  <h3>Full Stack Developer | Open Source Contributor</h3>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_n_i_g_h_t__s_l_a_y_e_r_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samanuaia257) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21974664) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nightsl93934079) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCecMIXsl00ZtQxlVky9wysw) 
+<div align="center">
+  <a href="https://night-slayer.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samanuaia257/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/NiGhTsL93934079">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/night-slayer18">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=night-slayer18&show_icons=true&count_private=true&theme=dark&include_all_commits=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=night-slayer18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=night-slayer18&layout=compact&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+---
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/night-slayer18)   -->
+I am a Full Stack Developer at **TCS** (Kochi, India) passionate about building scalable, high-performance software. My primary focus is on applying **Clean Architecture** principles to create robust, multi-tenant systems and developer tools that solve real-world problems. I thrive on tackling complex challenges and contributing to the open-source community.
 
+## 🚀 Key Projects & Contributions
 
+| Project | Description | Tech Stack |
+|---|---|---|
+| [**MultiBridge**](https://github.com/night-slayer18/multibridge) | A high-performance, multi-tenant database connection manager with secure, isolated pooling. | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white) |
+| [**GoForge**](https://github.com/night-slayer18/goforge) | A CLI tool for bootstrapping Go projects with a clean architecture foundation and modular scaffolding. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![CLI](https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white) |
+| [**ChatBot-AI**](https://github.com/night-slayer18/ChatBot-AI) | An intelligent chatbot platform combining ChatGPT and RASA, featuring persistent conversations and user auth. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![RASA](https://img.shields.io/badge/RASA-5A17EE?style=flat-square&logo=rasa&logoColor=white) |
+| [**fake-js**](https://github.com/night-slayer18/fake-js) | A lightweight, zero-dependency dummy data generator for rapid prototyping and testing in JavaScript. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) |
+
+## 🛠️ Technology & Architectural Skills
+
+-   **Languages:** TypeScript, Go, Java, Kotlin, Python, JavaScript (ES6+)
+-   **Backend:** Node.js, Spring Boot, Gin
+-   **Databases:** PostgreSQL, MongoDB, MySQL, Cassandra
+-   **DevOps & Tools:** Docker, Git, Vercel, Nginx, CI/CD
+-   **AI/ML:** RASA, OpenAI (ChatGPT) API Integration
+-   **Architecture:** Clean Architecture, Microservices, Multi-Tenancy, System Design
+
+---
