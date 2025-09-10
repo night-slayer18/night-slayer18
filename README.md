@@ -1,3 +1,4 @@
+# Samanuai A 👋
 
 <div align="center">
   <h3>Full Stack Developer | Platform Developer | Open Source Contributor</h3>
@@ -7,7 +8,7 @@
   <a href="https://night-slayer.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/samanuaia/">
+  <a href="https://www.linkedin.com/in/samanuaia257/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/NiGhTsL93934079">
@@ -31,8 +32,6 @@ I am a Full Stack Developer at **TCS** (Kochi, India) passionate about building 
 | [**ChatBot-AI**](https://github.com/night-slayer18/ChatBot-AI) | An intelligent chatbot platform combining ChatGPT and RASA, featuring persistent conversations and user auth. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![RASA](https://img.shields.io/badge/RASA-5A17EE?style=flat-square&logo=rasa&logoColor=white) |
 | [**fake-js**](https://github.com/night-slayer18/fake-js) | A lightweight, zero-dependency dummy data generator for rapid prototyping and testing in JavaScript. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) |
 
----
-
 ## 🛠️ Technology & Architectural Skills
 
 -   **Languages:** TypeScript, Go, Java, Kotlin, Python, JavaScript (ES6+)
@@ -41,3 +40,5 @@ I am a Full Stack Developer at **TCS** (Kochi, India) passionate about building 
 -   **DevOps & Tools:** Docker, Git, Vercel, Nginx, CI/CD
 -   **AI/ML:** RASA, OpenAI (ChatGPT) API Integration
 -   **Architecture:** **Clean Architecture**, **Microservices**, **Multi-Tenancy**, **System Design**
+
+---
