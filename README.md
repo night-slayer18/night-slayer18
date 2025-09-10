@@ -1,13 +1,13 @@
 
 <div align="center">
-  <h3>Full Stack Developer | Open Source Contributor</h3>
+  <h3>Full Stack Developer | Platform Developer | Open Source Contributor</h3>
 </div>
 
 <div align="center">
   <a href="https://night-slayer.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/samanuai/">
+  <a href="https://www.linkedin.com/in/samanuaia/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/NiGhTsL93934079">
@@ -38,6 +38,4 @@ I am a Full Stack Developer at **TCS** (Kochi, India) passionate about building 
 -   **Databases:** PostgreSQL, MongoDB, MySQL, Cassandra
 -   **DevOps & Tools:** Docker, Git, Vercel, Nginx, CI/CD
 -   **AI/ML:** RASA, OpenAI (ChatGPT) API Integration
--   **Architecture:** Clean Architecture, Microservices, Multi-Tenancy, System Design
-
----
+-   **Architecture:** **Clean Architecture**, **Microservices**, **Multi-Tenancy**, **System Design**
