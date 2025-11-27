@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=night-slayer18&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/night-slayer18?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/night-slayer18?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
-  <a href="https://wakatime.com/@night-slayer18">
+  <a href="https://wakatime.com/@night_slayer">
     <img src="https://wakatime.com/badge/user/night-slayer18.svg?style=for-the-badge" alt="WakaTime"/>
   </a>
 </div>
