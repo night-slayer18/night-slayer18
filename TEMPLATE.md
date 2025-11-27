@@ -43,8 +43,6 @@ I joined GitHub **{{ ACCOUNT_AGE }}** years ago and since then I have pushed **{
 <!-- About Me Section -->
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 I am a **Full Stack Developer** at **TCS** (Kochi, India) passionate about building scalable, high-performance software. My primary focus is on applying **Clean Architecture** principles to create robust and maintainable systems.
 
 - 🔭 Currently working on **distributed systems** and **platform engineering**
@@ -52,8 +50,6 @@ I am a **Full Stack Developer** at **TCS** (Kochi, India) passionate about build
 - 👯 Open to collaborate on **open-source projects** and **innovative ideas**
 - 💬 Ask me about **Clean Architecture**, **TypeScript**, **Go**, **Java**, or **System Design**
 - ⚡ Fun fact: I love turning complex problems into elegant, simple solutions
-
-<br clear="right"/>
 
 ---
 
