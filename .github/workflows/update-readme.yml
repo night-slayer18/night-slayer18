@@ -6,6 +6,10 @@
 # 1. Uncomment sections you want to enable (WakaTime, Blog Posts)
 # 2. Configure the required secrets and integrations
 # 3. Adjust the cron schedule if needed
+#
+# Security Note: For production use, consider pinning actions to commit SHAs
+# instead of version tags. You can find the commit SHA for a tag at:
+# https://github.com/{owner}/{repo}/releases/tag/{version}
 
 name: Update GitHub Profile README
 

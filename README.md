@@ -218,20 +218,27 @@ To enable WakaTime stats:
 
 ---
 
-<!-- Contribution Snake Animation -->
+<!-- Contribution Snake Animation (Optional)
 ## 🐍 Contribution Graph
 
+To enable the snake animation:
+1. Create a new workflow file .github/workflows/snake.yml
+2. Use the Platane/snk action to generate the SVG
+3. Uncomment the image section below
+
 <div align="center">
+  
+  <!--
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/night-slayer18/night-slayer18/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/night-slayer18/night-slayer18/output/github-contribution-grid-snake.svg"/>
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/night-slayer18/night-slayer18/output/github-contribution-grid-snake.svg"/>
   </picture>
-</div>
+  -->
+  
+  _🐍 Snake animation available after setting up the Platane/snk workflow_
 
-<!-- 
-Note: The snake animation requires an additional workflow to generate.
-To enable it, add a workflow with: https://github.com/Platane/snk
+</div>
 -->
 
 ---
