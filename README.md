@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/followers/night-slayer18?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/night-slayer18?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
   <a href="https://wakatime.com/@night_slayer">
-    <img src="https://wakatime.com/badge/user/night-slayer18.svg?style=for-the-badge" alt="WakaTime"/>
+    <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime"/>
   </a>
 </div>
 
