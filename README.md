@@ -16,7 +16,7 @@
 <!-- Social Links -->
 <div align="center">
   <br/>
-  <a href="https://night-slayer.tech/">
+  <a href="https://night-slayer.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/samanuai/">
@@ -36,7 +36,7 @@
 
 ## ⚡ Stats
 
-I joined GitHub **4** years ago and since then I have pushed **734** commits, opened **3** issues, submitted **5** PRs, received **4** stars across **47** personal projects and contributed to **1** public repositories.
+I joined GitHub **4** years ago and since then I have pushed **737** commits, opened **3** issues, submitted **5** PRs, received **4** stars across **47** personal projects and contributed to **1** public repositories.
 
 ---
 
