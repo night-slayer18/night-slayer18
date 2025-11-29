@@ -16,7 +16,7 @@
 <!-- Social Links -->
 <div align="center">
   <br/>
-  <a href="https://night-slayer.vercel.app/">
+  <a href="https://night-slayer.tech/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/samanuai/">
