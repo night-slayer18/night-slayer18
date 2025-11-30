@@ -36,7 +36,7 @@
 
 ## ⚡ Stats
 
-I joined GitHub **4** years ago and since then I have pushed **745** commits, opened **3** issues, submitted **6** PRs, received **0** stars across **5** personal projects and contributed to **2** public repositories.
+I joined GitHub **4** years ago and since then I have pushed **747** commits, opened **3** issues, submitted **6** PRs, received **4** stars across **47** personal projects and contributed to **2** public repositories.
 
 ---
 
