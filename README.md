@@ -8,8 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=night-slayer18&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/night-slayer18?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/night-slayer18?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
-  <a href="https://wakatime.com/@night_slayer">
-    <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime"/>
+  <a href="https://wakatime.com/@b40b327d-98a3-453f-be6c-d15d4dedcbce">
+    <img src="https://wakatime.com/badge/user/b40b327d-98a3-453f-be6c-d15d4dedcbce.svg?style=for-the-badge" alt="Total time coded since May 5 2024" />
   </a>
 </div>
 
@@ -36,7 +36,7 @@
 
 ## ⚡ Stats
 
-I joined GitHub **4** years ago and since then I have pushed **741** commits, opened **3** issues, submitted **5** PRs, received **4** stars across **47** personal projects and contributed to **1** public repositories.
+I joined GitHub **4** years ago and since then I have pushed **743** commits, opened **3** issues, submitted **5** PRs, received **4** stars across **47** personal projects and contributed to **1** public repositories.
 
 ---
 
