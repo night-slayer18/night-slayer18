@@ -2,10 +2,10 @@
   "petName": "GitGotchi",
   "hp": 100,
   "maxHp": 100,
-  "xp": 75,
+  "xp": 150,
   "mood": "excited",
   "moodScore": 5,
-  "level": 1,
-  "lastFed": "2025-12-08T13:57:27.317Z",
+  "level": 2,
+  "lastFed": "2025-12-08T14:00:26.235Z",
   "streak": 13
 }

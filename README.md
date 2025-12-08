@@ -40,6 +40,14 @@ I joined GitHub **4** years ago and since then I have pushed **807** commits, op
 
 ---
 
+# My Coding Pet
+
+Welcome to my profile! Here is my GitGotchi, which grows as I code.
+
+**![GitGotchi](.github/gitgotchi/gitgotchi-1765202426235.svg)**
+
+---
+
 <!-- About Me Section -->
 ## 👨‍💻 About Me
 
