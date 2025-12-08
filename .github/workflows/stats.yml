@@ -30,6 +30,7 @@ jobs:
           token: ${{ secrets.USER_TOKEN }}
           template_file: 'README.md'
           theme: 'ocean'
+          pet_type: 'ghost'
 
       - name: Update README.md
         run: |
