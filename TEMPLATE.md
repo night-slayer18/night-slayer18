@@ -40,6 +40,14 @@ I joined GitHub **{{ ACCOUNT_AGE }}** years ago and since then I have pushed **{
 
 ---
 
+# My Coding Pet
+
+Welcome to my profile! Here is my GitGotchi, which grows as I code.
+
+**{{ gitgotchi }}**
+
+---
+
 <!-- About Me Section -->
 ## 👨‍💻 About Me
 
