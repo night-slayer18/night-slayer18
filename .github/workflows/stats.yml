@@ -7,6 +7,7 @@ on:
   push:
     branches:
       - main
+      - feature/gitgotchi-integration
 
 jobs:
   publish:
@@ -16,11 +17,19 @@ jobs:
         with:
           fetch-depth: 0
 
+
       - name: Generate README.md
         uses: night-slayer18/profile-readme-stats@master
         with:
           token: ${{ secrets.USER_TOKEN }}
           includeForks: true
+
+      - name: GitGotchi Profile Pet
+        uses: night-slayer18/gitgotchi@v1
+        with:
+          token: ${{ secrets.USER_TOKEN }}
+          template_file: 'README.md'
+          theme: 'ocean'
 
       - name: Update README.md
         run: |
