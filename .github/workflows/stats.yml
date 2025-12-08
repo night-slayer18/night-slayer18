@@ -7,7 +7,7 @@ on:
   push:
     branches:
       - main
-      - feature/gitgotchi-integration
+      - gitgotchi
 
 jobs:
   publish:
