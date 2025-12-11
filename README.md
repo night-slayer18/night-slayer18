@@ -36,7 +36,7 @@
 
 ## ⚡ Stats
 
-I joined GitHub **4** years ago and since then I have pushed **818** commits, opened **3** issues, submitted **6** PRs, received **6** stars across **51** personal projects and contributed to **2** public repositories.
+I joined GitHub **4** years ago and since then I have pushed **821** commits (Longest Streak: **58** days, Current Streak: **16** days), opened **3** issues, submitted **6** PRs, received **6** stars across **51** personal projects and contributed to **2** public repositories.
 
 ---
 
