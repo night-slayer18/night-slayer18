@@ -45,7 +45,7 @@ I joined GitHub **{{ ACCOUNT_AGE }}** years ago and since then I have pushed **{
 
 I am a **Full Stack Developer** at **TCS** (Kochi, India) passionate about building scalable, high-performance software. My primary focus is on applying **Clean Architecture** principles to create robust and maintainable systems.
 
-- 🔭 Currently working on **distributed systems** and **platform engineering**
+- 🔭 **Current Focus**: Building practical, engineer-first tools as **Founder** of [OpenSyntaxHQ](https://github.com/OpenSyntaxHQ).
 - 🌱 Learning **Kubernetes**, **System Design**, and **Cloud Architecture**
 - 👯 Open to collaborate on **open-source projects** and **innovative ideas**
 - 💬 Ask me about **Clean Architecture**, **TypeScript**, **Go**, **Java**, or **System Design**
@@ -58,12 +58,12 @@ I am a **Full Stack Developer** at **TCS** (Kochi, India) passionate about build
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| [**leetcode-cli**](https://github.com/night-slayer18/leetcode-cli) | A modern LeetCode CLI & TUI built with TypeScript for a beautiful terminal experience. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [**Brokr Platform**](https://github.com/night-slayer18/brokr-platform) | A multi-tenant Kafka management platform with Spring Boot backend and GraphQL API for streamlined cluster operations. | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) |
+| [**autodocs**](https://github.com/OpenSyntaxHQ/autodocs) | Engineer-first documentation generator that turns your TypeScript code into beautiful, interactive docs. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TurboRepo](https://img.shields.io/badge/TurboRepo-EF4444?style=flat-square&logo=turborepo&logoColor=white) |
+| [**OpenSyntaxHQ**](https://github.com/OpenSyntaxHQ/OpenSyntaxHQ) | Community-driven open-source organization building practical, developer-first tools and systems. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [**MultiBridge**](https://github.com/night-slayer18/multibridge) | A high-performance, multi-tenant database connection manager with secure, isolated pooling. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
 | [**GoForge**](https://github.com/night-slayer18/goforge) | A CLI tool for bootstrapping Go projects with a clean architecture foundation and modular scaffolding. | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| [**ugit**](https://github.com/night-slayer18/ugit) | A minimal Git implementation in Python demonstrating core version control concepts including object storage, staging, and commit history. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**ChatBot-AI**](https://github.com/night-slayer18/ChatBot-AI) | An intelligent chatbot platform combining ChatGPT and RASA, featuring persistent conversations and user auth. | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**fake-js**](https://github.com/night-slayer18/fake-js) | A lightweight, zero-dependency dummy data generator for rapid prototyping and testing in JavaScript. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
 
